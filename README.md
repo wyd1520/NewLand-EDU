@@ -10,7 +10,7 @@
 
 针对发现的问题，直接修改并提交 Pull request 即可。
 
-在写创意题时，请复制并修改已有的模板:[示例模版](https://github.com/wyd1520/NewLand-EDU/blob/master/template/示例模版.md)。。
+在写创意题时，请复制并修改已有的模板:[示例模版]([https://github.com/wyd1520/NewLand-EDU/blob/master/template/示例模版.md](https://github.com/wyd1520/NewLand-EDU/blob/master/template/%E7%A4%BA%E4%BE%8B%E6%A8%A1%E6%9D%BF.md)。
 
 ## 物联网竞赛资源
 
