@@ -1,6 +1,12 @@
-# 新大陆教育公司公共开放资源
+# 新大陆教育公司
 [![License](https://img.shields.io/github/license/wyd1520/NewLand-EDU)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/wyd1520/NewLand-EDU)](https://github.com/wyd1520/NewLand-EDU/graphs/contributors)
+
+新大陆教育以最新的人才培养理念、优质的教育教学资源、国內外新兴教硏模式，打造全新的产教融合、校企合作人才培养的教育生态链。助力泰国“鲁班工坊”、柬埔寨“鲁班工坊”建设，辐射一带一路沿线国家，搭建起中国教育与世界沟通的桥梁。
+
+![教育生态圈](./template/教育生态圈.png)
+
+## 公共资源
 
 物联网竞赛资源包括各种针对物联网领域的竞赛提供的资源，这些资源可以帮助参赛者更好地参与竞赛。这些资源可能包括数据集、开源代码、评测工具、学习资料等。
 使用这些资源可以帮助参赛者更好地理解竞赛要求，并且可以提高参赛者的竞争能力。
